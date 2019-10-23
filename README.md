@@ -1,2 +1,2 @@
 # python-chat-server
-python server chat with few clients
+python chat server with few clients
